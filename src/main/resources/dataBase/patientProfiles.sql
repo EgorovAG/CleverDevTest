@@ -1,0 +1,20 @@
+insert into patient_profile (first_name, last_name, old_client_guid, status_id)
+values ('Mmohn', 'Mhoms', '17DD0E94-6A57-49C8-E933-CC480D1AC3FB', 200),
+       ('Jmoh', 'Rhomrds', 'A661E400-8CD0-6336-D0C2-2E8012903819', 210),
+       ('Ymohda', 'Rhomez', '4FED669C-7FAF-0EA3-28EC-44F7173B18E6', 230),
+       ('Jmohca', 'Jhom', '176FF906-BA91-1DAC-BF82-C466BEEC23A9', 230),
+       ('Amohy', 'Rhoms', '9837ABF4-7560-7E01-F591-BAB676E54FE6', 500),
+       ('Nmohya', 'Ahomrahman', 'B9AAB5A1-4E3A-3757-8E99-1A24564B9303', 230),
+       ('Mmohsa', 'Chomn', '046EF858-FAF6-A193-308A-72FC05B39993', 210),
+       ('Mmoh', 'Jhomon', 'F4269B4A-35AF-B474-E8B6-85B157F0972F,
+51A41979-EBEE-E26D-9DDF-732DA5765443', 200),
+       ('Mmoh', 'Phomr', '99927616-52F2-8D48-D0E1-3BA182C2286C', 500),
+       ('Smoha', 'Ohom', '78CC5371-AA4A-2E0C-E549-40334BF1C914', 300),
+       ('Mmohel', 'Bhomngton', '1F0424B1-1AE5-BF83-989D-2946FE5E6805', 200),
+       ('Amohw', 'Lhom', 'F9C9F6C9-93BD-0157-0054-BA85B845AA94', 210),
+       ('Cmoh', 'Jhom', '2DBA112A-F4BA-5A60-9B67-0B7783A10EE5', 230),
+       ('Smohn', 'Ahom', '23FB0A2D-5673-B9A5-7502-FB6275402B33', 200),
+       ('Jmoh', 'Rhom',
+        'B17C1E43-230F-8FC7-E379-2406BC834178,
+191D6B30-20D1-7C69-ECC2-0D96988384D5', 210)
+;
